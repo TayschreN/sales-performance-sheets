@@ -1,4 +1,4 @@
-Performance de Vendas Dashboard (Sheets)
+Performance de Vendas Dashboard (Google Sheets)
 
 Este projeto consiste na construção de um dashboard interativo no Google Sheets para análise de desempenho trimestral de vendas.
 
@@ -22,7 +22,8 @@ Gráficos Dinâmicos
 
 Segmentação de Dados (Slicers)
 
-📌 Etapas do Projeto
+Etapas do Projeto:
+
 1️⃣ Preparação dos Dados
 
 Organização e estruturação da base de dados
@@ -49,11 +50,7 @@ O dashboard inclui:
 
 📊 Gráfico de Barras com ranking de agentes de vendas
 
-Slicers para filtro por:
 
-Região do Escritório
-
-Manager
 
 📈 Principais Insights
 
@@ -65,14 +62,9 @@ Análise rápida de taxa de conversão (win rate)
 
 Comparação entre regiões e gerentes
 
-🎯 Objetivo do Projeto
 
-Demonstrar habilidades em:
+Objetivo do Projeto:
 
 Análise exploratória de dados
 
-Manipulação de dados no Excel
-
-Construção de dashboards interativos
-
-Comunicação visual de dados
+Manipulação de dados no Sheets
