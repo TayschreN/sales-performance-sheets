@@ -26,7 +26,7 @@ Construir um dashboard interativo que possibilite aos gerentes de vendas monitor
 
 ## Ferramentas Utilizadas
 
-- Microsoft Excel  
+- Google Sheets 
 - Tabelas Dinâmicas  
 - Gráficos Dinâmicos  
 - Segmentação de Dados (Slicers)  
@@ -60,10 +60,6 @@ O dashboard final inclui:
 - 🔢 Scorecard com comparação entre o trimestre mais recente (2017 Q4) e o anterior (2017 Q3)  
 - 🥧 Gráfico de Pizza mostrando a porcentagem de oportunidades ganhas e perdidas no trimestre mais recente  
 - 📊 Gráfico de Barras com ranking de agentes de vendas  
-- 🎛 Slicers para filtros por:
-  - Regional Office  
-  - Manager  
-
 ---
 
 ## 📈 Principais Insights
@@ -78,7 +74,7 @@ O dashboard final inclui:
 ## Este projeto demonstra habilidades em:
 
 - Análise exploratória de dados  
-- Manipulação e organização de dados no Excel  
+- Manipulação e organização de dados no Sheets
 - Construção de dashboards interativos   
 
 ---
@@ -86,5 +82,6 @@ O dashboard final inclui:
 Gabriel França da Silva  
 Estudante de Análise de Dados  
 🔗 LinkedIn: https://www.linkedin.com/in/gabrielfranca123
+
 
 
