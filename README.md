@@ -85,5 +85,6 @@ O dashboard final inclui:
 
 Gabriel França da Silva  
 Estudante de Análise de Dados  
-🔗 LinkedIn: https://www.linkedin.com/in/gabriel-fran%C3%A7a-73a126374/
+🔗 LinkedIn: https://www.linkedin.com/in/gabrielfranca123
+
 
