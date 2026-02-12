@@ -1,70 +1,89 @@
-Performance de Vendas Dashboard (Google Sheets)
+# Performance de Vendas Dashboard (Sheets)
 
-Este projeto consiste na construção de um dashboard interativo no Google Sheets para análise de desempenho trimestral de vendas.
+Este projeto consiste na construção de um dashboard interativo em Excel para análise do desempenho trimestral da equipe de vendas.
 
-O objetivo é permitir que gerentes de vendas acompanhem a performance da equipe de forma dinâmica e visual.
+O objetivo é permitir que gerentes acompanhem resultados, identifiquem padrões de performance e tomem decisões estratégicas com base em dados.
 
 ---
 
 ## Visualização do Dashboard
 
-![Preview](Dashboard.jpg)
+![Sales Performance Dashboard](Dashboard.jpg)
+
+
+---
+## Objetivo do Projeto
+
+Construir um dashboard interativo que possibilite aos gerentes de vendas monitorar:
+
+- Oportunidades conquistadas por trimestre  
+- Percentual de oportunidades ganhas vs perdidas  
+- Desempenho individual dos agentes de vendas  
+- Comparação entre trimestres  
+- Análise por região e gerente  
 
 ---
 
-🛠 Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
-Microsoft Excel
+- Microsoft Excel  
+- Tabelas Dinâmicas  
+- Gráficos Dinâmicos  
+- Segmentação de Dados (Slicers)  
+- Scorecard Visual  
 
-Tabelas Dinâmicas
+---
 
-Gráficos Dinâmicos
+## Etapas do Projeto
 
-Segmentação de Dados (Slicers)
+### 1️⃣ Preparação dos Dados
+- Organização da base de dados  
+- Estruturação para análise  
+- Garantia de consistência nas informações  
 
-Etapas do Projeto:
+### 2️⃣ Exploração com Tabelas Dinâmicas
 
-1️⃣ Preparação dos Dados
+Foram criadas as seguintes análises:
 
-Organização e estruturação da base de dados
+- Oportunidades conquistadas por trimestre  
+- Percentual de oportunidades ganhas e perdidas por trimestre  
+- Oportunidades ganhas por agente de vendas  
+- Ordenação dos agentes em ordem decrescente por desempenho  
+- Reestruturação das tabelas para que o trimestre mais recente apareça primeiro  
 
-Garantia de consistência para análise
+---
 
-2️⃣ Exploração com Tabelas Dinâmicas
+### 3️⃣ Construção do Dashboard
 
-Oportunidades conquistadas por trimestre
+O dashboard final inclui:
 
-Percentual de oportunidades ganhas vs perdidas por trimestre
+- 🔢 Scorecard com comparação entre o trimestre mais recente (2017 Q4) e o anterior (2017 Q3)  
+- 🥧 Gráfico de Pizza mostrando a porcentagem de oportunidades ganhas e perdidas no trimestre mais recente  
+- 📊 Gráfico de Barras com ranking de agentes de vendas  
+- 🎛 Slicers para filtros por:
+  - Regional Office  
+  - Manager  
 
-Oportunidades ganhas por agente de vendas
+---
 
-Ordenação dinâmica com trimestre mais recente primeiro
+## 📈 Principais Insights
 
-3️⃣ Construção do Dashboard
-
-O dashboard inclui:
-
-🔢 Scorecard com comparação entre trimestres (Q4 vs Q3 2017)
-
-🥧 Gráfico de Pizza com percentual de oportunidades ganhas e perdidas
-
-📊 Gráfico de Barras com ranking de agentes de vendas
-
-
-
-📈 Principais Insights
-
-Visualização clara da evolução trimestral
-
-Identificação dos agentes com melhor desempenho
-
-Análise rápida de taxa de conversão (win rate)
-
-Comparação entre regiões e gerentes
+- Visualização clara da evolução trimestral de desempenho  
+- Identificação dos agentes com melhor performance  
+- Análise rápida da taxa de conversão (win rate)  
+- Comparação entre regiões e gerentes  
 
 
-Objetivo do Projeto:
 
-Análise exploratória de dados
+## Este projeto demonstra habilidades em:
 
-Manipulação de dados no Sheets
+- Análise exploratória de dados  
+- Manipulação e organização de dados no Excel  
+- Construção de dashboards interativos   
+
+---
+
+Gabriel França da Silva  
+Estudante de Análise de Dados  
+🔗 LinkedIn: https://www.linkedin.com/in/gabriel-fran%C3%A7a-73a126374/
+
