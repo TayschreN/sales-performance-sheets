@@ -12,7 +12,7 @@ O objetivo é permitir que gerentes acompanhem resultados, identifiquem padrões
 
 
 ---
-## Objetivo do Projeto
+## Objetivo do Projeto:
 
 Construir um dashboard interativo que possibilite aos gerentes de vendas monitorar:
 
@@ -24,7 +24,7 @@ Construir um dashboard interativo que possibilite aos gerentes de vendas monitor
 
 ---
 
-## Ferramentas Utilizadas
+## Ferramentas Utilizadas:
 
 - Google Sheets 
 - Tabelas Dinâmicas  
@@ -34,14 +34,14 @@ Construir um dashboard interativo que possibilite aos gerentes de vendas monitor
 
 ---
 
-## Etapas do Projeto
+## Etapas do Projeto:
 
-### 1️⃣ Preparação dos Dados
+### 1 Preparação dos Dados
 - Organização da base de dados  
 - Estruturação para análise  
 - Garantia de consistência nas informações  
 
-### 2️⃣ Exploração com Tabelas Dinâmicas
+### 2 Exploração com Tabelas Dinâmicas
 
 Foram criadas as seguintes análises:
 
@@ -53,16 +53,16 @@ Foram criadas as seguintes análises:
 
 ---
 
-### 3️⃣ Construção do Dashboard
+### 3 Construção do Dashboard
 
 O dashboard final inclui:
 
-- 🔢 Scorecard com comparação entre o trimestre mais recente (2017 Q4) e o anterior (2017 Q3)  
-- 🥧 Gráfico de Pizza mostrando a porcentagem de oportunidades ganhas e perdidas no trimestre mais recente  
-- 📊 Gráfico de Barras com ranking de agentes de vendas  
+-  Scorecard com comparação entre o trimestre mais recente (2017 Q4) e o anterior (2017 Q3)  
+-  Gráfico de Pizza mostrando a porcentagem de oportunidades ganhas e perdidas no trimestre mais recente  
+-  Gráfico de Barras com ranking de agentes de vendas  
 ---
 
-## 📈 Principais Insights
+## Principais Insights:
 
 - Visualização clara da evolução trimestral de desempenho  
 - Identificação dos agentes com melhor performance  
@@ -79,9 +79,18 @@ O dashboard final inclui:
 
 ---
 
+## Aprendizado:
+
+Este projeto foi desenvolvido acompanhando a aula disponível neste vídeo: https://www.youtube.com/watch?v=qfCjuANADlU.
+Ao longo do projeto, aprofundei meus conhecimentos em conceitos e técnicas importantes 
+Recomendo fortemente para quem deseja evoluir seus estudos em Data Analytics e Business Intelligence.
+
+---
+
 Gabriel França da Silva  
 Estudante de Análise de Dados  
 🔗 LinkedIn: https://www.linkedin.com/in/gabrielfranca123
+
 
 
 
